@@ -57,7 +57,7 @@ Dimension loads are often done with the truncate-insert pattern where the target
 ### Data Quality Operator
 The data quality operator is used to run checks on the data itself. The operator's main functionality is to receive one or more SQL based test cases along with the expected results and execute the tests.
 
-#NOTE: Tables must be created prior to running the etl DAG.
+# NOTE: Tables must be created prior to running the etl DAG.
 
 ## REPO CONTENTS
 
